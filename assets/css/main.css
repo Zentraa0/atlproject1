@@ -1,0 +1,139 @@
+body{
+    background-color:#F5F6FF;
+}
+.content{
+    background-color: #fff;
+    color:#172039;
+    width: 453px;
+    font-family: 'Muli',sans-serif;
+    padding: 56px;
+    border-radius: 24px;
+    margin: 10px auto 0;
+}
+.c-border{
+    border-radius: 16px;
+    border:1px solid #D7D9E8;
+}
+.c-header{
+    margin-bottom: 24px;
+}
+.c-header h1{
+    margin-bottom: 16px;
+    font-size: 24px;
+    line-height: 28.13px;
+}
+.stars img,.reviews,.number{
+    float: left ;
+}
+.stars {
+    height: 20px;
+    margin-bottom: 24px;
+}
+.number{
+    color: #000;
+    padding-left: 9px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20.08px;
+}
+.reviews{
+    color:#747988;
+    padding-top: 1.5px;
+    font-size:16px;
+    line-height:18.75px;
+}
+.price{
+    font-size: 32px;
+    line-height: 37.5px;
+    margin-bottom: 24px;
+}
+
+.c-header-buttons{
+    padding: 8px;
+    border-radius: 16px;
+    background-color: #F5F6FF;
+}
+.c-header-buttons button{
+    width: 50%;
+    padding: 10px;
+    border-radius: 13px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20.08px;
+}
+.button-left{
+    background-color: #F5F6FF;
+    color: #747988;
+}
+.button-right{
+    float: right;
+    background-color: #fff;
+}
+
+/* SEARCH */
+.c-search{
+    padding: 10px;
+    margin-bottom: 24px;
+}
+.search{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20.08px;
+    margin-top: 6px;
+}
+.c-search img{
+    float: left;
+    margin-right: 16px;
+}
+
+/* C-center */
+.c-center{
+    padding: 16px;
+    margin-bottom: 24px;
+}
+.area,.km-away{
+    display: inline-block;
+    font-size: 18px;
+    line-height: 22.59px;
+    margin-bottom: 8px;
+}
+.area{
+    font-weight: 700;
+}
+.km-away{
+    font-weight: 400;
+}
+.pick-up{
+    font-size: 16px;
+    line-height: 18.75px;
+    margin-bottom: 8px;
+}
+.date{
+    font-size: 14px;
+    line-height: 16.41px;
+    color: #747988;
+    margin-bottom: 16px;
+}
+.add{
+    background-color: #4571F5;
+    color: #fff;
+    padding: 16px;
+    border-radius: 16px;
+    width: 100%;
+    height: 55px;
+    font-size: 18px;
+    line-height: 21.09px;
+}
+
+/* BOTTOM */
+.items{
+    font-size: 14px;
+    line-height: 16.41px;
+    color: #747988;
+    padding-bottom: 16px;
+}
+.item{
+    margin-bottom:8px;
+    padding: 16px;
+    height: 80px;
+}
